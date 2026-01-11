@@ -2,6 +2,29 @@
 
 ROS2와 Turtlebot4를 활용한 자율 주행 의류 매장 재고 관리 시스템입니다. YOLO 기반 객체 인식과 다중 로봇 협업을 통해 매장 내 재고 파악 및 정리 작업을 자동화합니다.
 
+## 🔧 기술 스택
+
+### 로봇 플랫폼 & 프레임워크
+![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![TurtleBot4](https://img.shields.io/badge/TurtleBot4-iRobot-00A4EF?style=for-the-badge&logo=irobot&logoColor=white)
+
+### AI & 컴퓨터 비전
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 내비게이션 & 센서
+![Nav2](https://img.shields.io/badge/Nav2-Navigation-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![LiDAR](https://img.shields.io/badge/LiDAR-RPLIDAR-FF6B6B?style=for-the-badge&logo=lidar&logoColor=white)
+![OAK-D](https://img.shields.io/badge/OAK--D-RGB--D-4CAF50?style=for-the-badge&logo=camera&logoColor=white)
+
+### 통신 & 제어
+![ROS2 Topics](https://img.shields.io/badge/ROS2-Topics-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2 Actions](https://img.shields.io/badge/ROS2-Actions-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![DDS](https://img.shields.io/badge/DDS-FastDDS-00599C?style=for-the-badge&logo=dds&logoColor=white)
+
 ## 📋 목차
 - [프로젝트 개요](#-프로젝트-개요)
 - [시스템 아키텍처](#-시스템-아키텍처)

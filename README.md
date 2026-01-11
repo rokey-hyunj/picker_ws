@@ -2,8 +2,6 @@
 
 ROS2와 Turtlebot4를 활용한 자율 주행 의류 매장 재고 관리 시스템입니다. YOLO 기반 객체 인식과 다중 로봇 협업을 통해 매장 내 재고 파악 및 정리 작업을 자동화합니다.
 
-## 🔧 기술 스택
-
 ### 로봇 플랫폼 & 프레임워크
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
